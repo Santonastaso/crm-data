@@ -9,7 +9,7 @@ import {
   Button,
   Badge,
   cn
-} from '@andrea/crm-ui';
+} from '@santonastaso/crm-ui';
 
 /**
  * Column definition for DataTable
