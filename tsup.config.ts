@@ -11,5 +11,5 @@ export default defineConfig({
   dts: true,
   clean: true,
   sourcemap: true,
-  external: ["react", "react-dom", "@supabase/supabase-js", "@andrea/crm-ui", "@tanstack/react-query"]
+  external: ["react", "react-dom", "@supabase/supabase-js", "@santonastaso/crm-ui", "@tanstack/react-query"]
 });
