@@ -1,8 +1,11 @@
 {
-  "name": "@andrea/crm-data",
+  "name": "@santonastaso/crm-data",
   "version": "0.1.0",
   "type": "module",
   "private": false,
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
   "main": "./dist/index.cjs",
   "module": "./dist/index.js",
   "types": "./dist/index.d.ts",
